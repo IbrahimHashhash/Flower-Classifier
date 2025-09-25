@@ -13,8 +13,8 @@ A deep learning image classifier built with TensorFlow that predicts flower type
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/IbrahimHashhash/Flower-Classifier
+cd Flower-Classifier
 ```
 ## Usage 
 - Basic usage:
